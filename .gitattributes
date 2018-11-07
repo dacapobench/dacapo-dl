@@ -2,3 +2,4 @@ dat/batik-huge.zip filter=lfs diff=lfs merge=lfs -text
 dat/lusearch-huge.zip filter=lfs diff=lfs merge=lfs -text
 dat/luindex-huge-1.zip filter=lfs diff=lfs merge=lfs -text
 dat/luindex-huge-2.zip filter=lfs diff=lfs merge=lfs -text
+dat/graphchi.zip filter=lfs diff=lfs merge=lfs -text
